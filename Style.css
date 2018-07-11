@@ -1,21 +1,23 @@
-body {
-  border: solid;
-  background-repeat: no-repeat;
+header
+{
+background-color: rgba(0, 0, 0, 0.5);
+margin: 0;
+height: 50px;
 }
-* {
-
-  font-size: 25px;
-  font-weight: bold;
-  font-style: italic;
-  text-decoration: blink;
-  text-align: justify;
-}
-img {
-  border-radius: 50%;
-}
-#Bleu {
-  color: blue;
+.bouton {
+ background-color:rgba(0, 0, 0, 0.5) ;
+ border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
   display: inline-block;
+  font-size: 16px;
 }
-header {
+body {
+ margin :0;
+background-image: url('../Image/Image_lol.jpg');
+background-repeat: repeat; }
+img {
+border-radius: 50%;
 }
