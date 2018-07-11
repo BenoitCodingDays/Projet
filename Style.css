@@ -1,0 +1,21 @@
+body {
+  border: solid;
+  background-repeat: no-repeat;
+}
+* {
+
+  font-size: 25px;
+  font-weight: bold;
+  font-style: italic;
+  text-decoration: blink;
+  text-align: justify;
+}
+img {
+  border-radius: 50%;
+}
+#Bleu {
+  color: blue;
+  display: inline-block;
+}
+header {
+}
